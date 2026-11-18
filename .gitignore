@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+.cache/
+*.log
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+compile/build/
